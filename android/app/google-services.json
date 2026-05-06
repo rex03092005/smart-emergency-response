@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756695116736",
+    "project_id": "resqnet-7578d",
+    "storage_bucket": "resqnet-7578d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756695116736:android:97f93ecd74a419dd5b3625",
+        "android_client_info": {
+          "package_name": "com.example.smart_emergency_response"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOy6wsSD7Pmb6nKnKNlxWxGLtQAHsdcyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
